@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html ng-app="demo">
+<head>
+    <meta charset="utf-8" />
+    <title>AngularJs Sample</title>
+    <script src="Scripts/angular.min.js"></script>
+    <script src="app/app.js"></script>
+    <script src="app/controllers/companySystemController.js"></script>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div ng-app="app" ng-controller="companySystemController">
+        <div class="divList">
+            <p class="divHead">Companies List</p>
+            {{$scope.companies}}
+            <table cellpadding="12" class="table table-bordered table-hover">
+                <tr>
+                    <td><b>ID</b></td>
+                    <td><b>Name</b></td>
+                    <td><b>Address</b></td>
+                    <td><b>Website</b></td>
+                    <td><b>Phone Number</b></td>
+                </tr>
+                <tr ng-repeat="company in companies">
+                    <td>
+                        {{company.Id}}
+                    </td>
+                    <td>
+                        {{company.Name}}
+                    </td>
+                    <td>
+                        {{company.Address}}
+                    </td>
+                    <td>
+                        {{company.Website}}
+                    </td>
+                    <td>
+                        {{company.Phone_Number}}
+                    </td>
+                    <td>
+                        <a href="https://www.sitename.com/">View Employees</a>
+                    </td>
+                    <td>
+                        <span ng-click="editEmployee(employee)" class="btnAdd">Edit</span>
+                        <span ng-click="deleteEmployee(employee)" class="btnRed">Delete</span>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

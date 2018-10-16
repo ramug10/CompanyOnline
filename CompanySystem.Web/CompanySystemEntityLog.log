@@ -1,0 +1,14 @@
+2018-10-15 16:43:43,218 [6] INFO  CompanySystem.CompanySystemRepository Log - Gets all companies from database
+2018-10-15 16:45:04,312 [6] INFO  CompanySystem.CompanySystemRepository Inserting new Company to database
+2018-10-15 16:45:04,397 [6] ERROR CompanySystem.CompanySystemRepository Error on inserting company
+System.ArgumentNullException: Value cannot be null.
+Parameter name: entity
+   at System.Data.Entity.Utilities.Check.NotNull[T](T value, String parameterName)
+   at System.Data.Entity.DbSet`1.Add(TEntity entity)
+   at CompanySystem.CompanySystemRepository.Insert(Company company) in E:\Samba\CompanyOnline (1)\eLearning\CompanySystemRepository.cs:line 121
+2018-10-15 16:45:24,381 [9] INFO  CompanySystem.CompanySystemRepository Inserting new Company to database
+2018-10-15 17:35:07,653 [19] INFO  CompanySystem.CompanySystemRepository Log - Gets all companies from database
+2018-10-16 11:11:21,561 [7] INFO  CompanySystem.CompanySystemRepository Log - Gets all companies from database
+2018-10-16 12:05:31,817 [5] INFO  CompanySystem.CompanySystemRepository Log - Gets all companies from database
+2018-10-16 13:26:21,997 [32] INFO  CompanySystem.CompanySystemRepository Log - Gets all companies from database
+2018-10-16 15:32:29,607 [6] INFO  CompanySystem.CompanySystemRepository Log - Gets all companies from database

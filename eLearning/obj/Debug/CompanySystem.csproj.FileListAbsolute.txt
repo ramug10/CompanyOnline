@@ -1,0 +1,47 @@
+E:\Samba\CompanyOnline (1)\eLearning\bin\Debug\eLearning.dll.config
+E:\Samba\CompanyOnline (1)\eLearning\bin\Debug\eLearning.dll
+E:\Samba\CompanyOnline (1)\eLearning\bin\Debug\eLearning.pdb
+E:\Samba\CompanyOnline (1)\eLearning\bin\Debug\EntityFramework.dll
+E:\Samba\CompanyOnline (1)\eLearning\bin\Debug\EntityFramework.SqlServer.dll
+E:\Samba\CompanyOnline (1)\eLearning\bin\Debug\log4net.dll
+E:\Samba\CompanyOnline (1)\eLearning\bin\Debug\NLog.dll
+E:\Samba\CompanyOnline (1)\eLearning\bin\Debug\PostSharp.dll
+E:\Samba\CompanyOnline (1)\eLearning\bin\Debug\PostSharp.Patterns.Common.dll
+E:\Samba\CompanyOnline (1)\eLearning\bin\Debug\PostSharp.Patterns.Diagnostics.Backends.NLog.dll
+E:\Samba\CompanyOnline (1)\eLearning\bin\Debug\PostSharp.Patterns.Diagnostics.dll
+E:\Samba\CompanyOnline (1)\eLearning\bin\Debug\EntityFramework.xml
+E:\Samba\CompanyOnline (1)\eLearning\bin\Debug\EntityFramework.SqlServer.xml
+E:\Samba\CompanyOnline (1)\eLearning\bin\Debug\log4net.xml
+E:\Samba\CompanyOnline (1)\eLearning\bin\Debug\NLog.xml
+E:\Samba\CompanyOnline (1)\eLearning\bin\Debug\PostSharp.xml
+E:\Samba\CompanyOnline (1)\eLearning\bin\Debug\PostSharp.Patterns.Common.xml
+E:\Samba\CompanyOnline (1)\eLearning\bin\Debug\PostSharp.Patterns.Diagnostics.xml
+E:\Samba\CompanyOnline (1)\eLearning\bin\Debug\PostSharp.Patterns.Diagnostics.Backends.NLog.xml
+E:\Samba\CompanyOnline (1)\eLearning\obj\Debug\CompanySystem.csprojAssemblyReference.cache
+E:\Samba\CompanyOnline (1)\eLearning\obj\Debug\CompanySystem.csproj.CoreCompileInputs.cache
+E:\Samba\CompanyOnline (1)\eLearning\obj\Debug\CompanySystem.csproj.CopyComplete
+E:\Samba\CompanyOnline (1)\eLearning\obj\Debug\eLearning.dll
+E:\Samba\CompanyOnline (1)\eLearning\obj\Debug\eLearning.pdb
+E:\Samba\CompanyOnline\eLearning\bin\Debug\eLearning.dll.config
+E:\Samba\CompanyOnline\eLearning\bin\Debug\eLearning.dll
+E:\Samba\CompanyOnline\eLearning\bin\Debug\eLearning.pdb
+E:\Samba\CompanyOnline\eLearning\bin\Debug\EntityFramework.dll
+E:\Samba\CompanyOnline\eLearning\bin\Debug\EntityFramework.SqlServer.dll
+E:\Samba\CompanyOnline\eLearning\bin\Debug\log4net.dll
+E:\Samba\CompanyOnline\eLearning\bin\Debug\NLog.dll
+E:\Samba\CompanyOnline\eLearning\bin\Debug\PostSharp.dll
+E:\Samba\CompanyOnline\eLearning\bin\Debug\PostSharp.Patterns.Common.dll
+E:\Samba\CompanyOnline\eLearning\bin\Debug\PostSharp.Patterns.Diagnostics.Backends.NLog.dll
+E:\Samba\CompanyOnline\eLearning\bin\Debug\PostSharp.Patterns.Diagnostics.dll
+E:\Samba\CompanyOnline\eLearning\bin\Debug\EntityFramework.xml
+E:\Samba\CompanyOnline\eLearning\bin\Debug\EntityFramework.SqlServer.xml
+E:\Samba\CompanyOnline\eLearning\bin\Debug\log4net.xml
+E:\Samba\CompanyOnline\eLearning\bin\Debug\NLog.xml
+E:\Samba\CompanyOnline\eLearning\bin\Debug\PostSharp.xml
+E:\Samba\CompanyOnline\eLearning\bin\Debug\PostSharp.Patterns.Common.xml
+E:\Samba\CompanyOnline\eLearning\bin\Debug\PostSharp.Patterns.Diagnostics.xml
+E:\Samba\CompanyOnline\eLearning\bin\Debug\PostSharp.Patterns.Diagnostics.Backends.NLog.xml
+E:\Samba\CompanyOnline\eLearning\obj\Debug\CompanySystem.csproj.CoreCompileInputs.cache
+E:\Samba\CompanyOnline\eLearning\obj\Debug\CompanySystem.csproj.CopyComplete
+E:\Samba\CompanyOnline\eLearning\obj\Debug\eLearning.dll
+E:\Samba\CompanyOnline\eLearning\obj\Debug\eLearning.pdb

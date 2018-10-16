@@ -1,0 +1,214 @@
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\ApplicationInsights.config
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\CompanySystem.Web.dll.config
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\CompanySystem.Web.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\CompanySystem.Web.pdb
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\csc.exe
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\csc.exe.config
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\csc.rsp
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\csi.exe
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\csi.rsp
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\System.AppContext.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\System.IO.FileSystem.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\vbc.exe
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\vbc.exe.config
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\vbc.rsp
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\VBCSCompiler.exe
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Antlr3.Runtime.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\eLearning.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Elmah.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\EntityFramework.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\EntityFramework.SqlServer.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\log4net.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Microsoft.AI.DependencyCollector.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Microsoft.AI.Web.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Microsoft.AI.WindowsServer.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Microsoft.ApplicationInsights.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Newtonsoft.Json.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Ninject.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Ninject.Web.Common.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\NLog.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\PostSharp.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\PostSharp.Patterns.Common.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\PostSharp.Patterns.Diagnostics.Backends.NLog.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\PostSharp.Patterns.Diagnostics.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\System.Net.Http.Formatting.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\System.Web.Helpers.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\System.Web.Http.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\System.Web.Http.Tracing.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\System.Web.Http.WebHost.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\System.Web.Mvc.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\System.Web.Optimization.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\System.Web.Razor.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\System.Web.WebPages.Deployment.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\System.Web.WebPages.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\System.Web.WebPages.Razor.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\WebActivator.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\WebApiContrib.IoC.Ninject.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\WebGrease.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\eLearning.pdb
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\eLearning.dll.config
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\EntityFramework.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\EntityFramework.SqlServer.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\log4net.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Ninject.pdb
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Ninject.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Ninject.Web.Common.pdb
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Ninject.Web.Common.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\NLog.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\PostSharp.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\PostSharp.Patterns.Common.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\PostSharp.Patterns.Diagnostics.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\PostSharp.Patterns.Diagnostics.Backends.NLog.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\System.Net.Http.Formatting.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\System.Web.Http.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\System.Web.Http.Tracing.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Newtonsoft.Json.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\System.Web.Helpers.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\System.Web.Http.WebHost.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\System.Web.Mvc.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\System.Web.Optimization.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\System.Web.Razor.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\System.Web.WebPages.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\System.Web.WebPages.Deployment.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\System.Web.WebPages.Razor.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Antlr3.Runtime.pdb
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Microsoft.AI.DependencyCollector.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Microsoft.AI.WindowsServer.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Microsoft.AI.Web.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\obj\Debug\CompanySystem.Web.csprojAssemblyReference.cache
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\obj\Debug\CompanySystem.Web.csproj.CoreCompileInputs.cache
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\obj\Debug\CompanySystem.Web.csproj.CopyComplete
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\obj\Debug\CompanySystem.Web.dll
+E:\Samba\CompanyOnline (1)\CompanySystem.Web\obj\Debug\CompanySystem.Web.pdb
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\ApplicationInsights.config
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\CompanySystem.Web.dll.config
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\CompanySystem.Web.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\CompanySystem.Web.pdb
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\csc.exe
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\csc.exe.config
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\csc.rsp
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\csi.exe
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\csi.rsp
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\System.AppContext.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\System.IO.FileSystem.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\vbc.exe
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\vbc.exe.config
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\vbc.rsp
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\VBCSCompiler.exe
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Antlr3.Runtime.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\eLearning.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Elmah.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\EntityFramework.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\EntityFramework.SqlServer.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\log4net.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Microsoft.AI.DependencyCollector.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Microsoft.AI.Web.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Microsoft.AI.WindowsServer.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Microsoft.ApplicationInsights.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Newtonsoft.Json.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Ninject.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Ninject.Web.Common.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\NLog.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\PostSharp.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\PostSharp.Patterns.Common.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\PostSharp.Patterns.Diagnostics.Backends.NLog.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\PostSharp.Patterns.Diagnostics.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\System.Net.Http.Formatting.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\System.Web.Helpers.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\System.Web.Http.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\System.Web.Http.Tracing.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\System.Web.Http.WebHost.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\System.Web.Mvc.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\System.Web.Optimization.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\System.Web.Razor.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\System.Web.WebPages.Deployment.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\System.Web.WebPages.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\System.Web.WebPages.Razor.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\WebActivator.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\WebApiContrib.IoC.Ninject.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\WebGrease.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\eLearning.pdb
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\eLearning.dll.config
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\EntityFramework.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\EntityFramework.SqlServer.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\log4net.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Ninject.pdb
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Ninject.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Ninject.Web.Common.pdb
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Ninject.Web.Common.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\NLog.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\PostSharp.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\PostSharp.Patterns.Common.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\PostSharp.Patterns.Diagnostics.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\PostSharp.Patterns.Diagnostics.Backends.NLog.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\System.Net.Http.Formatting.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\System.Web.Http.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\System.Web.Http.Tracing.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Newtonsoft.Json.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\System.Web.Helpers.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\System.Web.Http.WebHost.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\System.Web.Mvc.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\System.Web.Optimization.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\System.Web.Razor.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\System.Web.WebPages.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\System.Web.WebPages.Deployment.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\System.Web.WebPages.Razor.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Antlr3.Runtime.pdb
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Microsoft.AI.DependencyCollector.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Microsoft.AI.WindowsServer.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Microsoft.AI.Web.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Samba\CompanyOnline\CompanySystem.Web\obj\Debug\CompanySystem.Web.csprojAssemblyReference.cache
+E:\Samba\CompanyOnline\CompanySystem.Web\obj\Debug\CompanySystem.Web.csproj.CoreCompileInputs.cache
+E:\Samba\CompanyOnline\CompanySystem.Web\obj\Debug\CompanySystem.Web.csproj.CopyComplete
+E:\Samba\CompanyOnline\CompanySystem.Web\obj\Debug\CompanySystem.Web.dll
+E:\Samba\CompanyOnline\CompanySystem.Web\obj\Debug\CompanySystem.Web.pdb
