@@ -10,12 +10,14 @@ using CompanySystem.Web.Models;
 using Elmah;
 using CompanySystem.Web.Filters;
 using System.Diagnostics;
+using eLearning.Utils;
 //using System.Web.Mvc;
 //using System.Web.Mvc;
 
 namespace CompanySystem.Web.Controllers
 {
     [ElmahError]
+    [NlogTrace]
     public class CompaniesController : BaseApiController
     {
         public CompaniesController(ICompanySystemRepository repo) : base(repo)
@@ -46,14 +48,16 @@ namespace CompanySystem.Web.Controllers
         [HttpGet]
         [ElmahError]
         [ActionName("Companies")]
+        [NlogTrace]
         public IHttpActionResult GetCompany(int id)
         {
             Trace.WriteLine("Invoking respository to get company details.");
 
             var company = TheRepository.GetCompany(id);
+            company.CompanyEmployees = TheRepository.GetAllEmployees(id).ToList();
             if (company != null)
             {
-                return Ok(TheModelFactory.Create(company));
+                return Ok(company);
             }
             else
             {
@@ -65,6 +69,7 @@ namespace CompanySystem.Web.Controllers
 
         [HttpPost]
         [ActionName("Company")]
+        [NlogTrace]
         public HttpResponseMessage InsertCompany([FromBody] CompanyModel companyModel)
         {
             Trace.WriteLine("Invoking respository to insert a company");
@@ -86,6 +91,7 @@ namespace CompanySystem.Web.Controllers
 
         [HttpPut]
         [ActionName("Company")]
+        [NlogTrace]
         public HttpResponseMessage Company(int id, [FromBody] CompanyModel companyModel)
         {
             Trace.WriteLine("Invoking respository to update a company");
@@ -119,11 +125,13 @@ namespace CompanySystem.Web.Controllers
 
         [HttpDelete]
         [ActionName("Company")]
+        [NlogTrace]
         public HttpResponseMessage Company(int id)
         {
             Trace.WriteLine("Invoking respository to delete a company");
 
             var company = TheRepository.GetCompany(id);
+           
 
                 if (company == null)
                 {

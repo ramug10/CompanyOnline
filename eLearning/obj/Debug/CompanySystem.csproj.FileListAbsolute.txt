@@ -45,3 +45,4 @@ E:\Samba\CompanyOnline\eLearning\obj\Debug\CompanySystem.csproj.CoreCompileInput
 E:\Samba\CompanyOnline\eLearning\obj\Debug\CompanySystem.csproj.CopyComplete
 E:\Samba\CompanyOnline\eLearning\obj\Debug\eLearning.dll
 E:\Samba\CompanyOnline\eLearning\obj\Debug\eLearning.pdb
+E:\Samba\CompanyOnline\eLearning\obj\Debug\CompanySystem.csprojAssemblyReference.cache

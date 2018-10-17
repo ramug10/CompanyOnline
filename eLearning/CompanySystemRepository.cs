@@ -101,8 +101,12 @@ namespace CompanySystem
         {
             return _ctx.Employees.AsQueryable();
         }
+       
+        public IQueryable<Employee> GetAllEmployees(int companyId)
+        {
+            return _ctx.Employees.AsQueryable().Where(s=>s.Company_Id == companyId);
+        }
 
-        
         public Company GetCompany(int companyId)
         {
             return _ctx.Companies.Find(companyId);

@@ -12,6 +12,7 @@ namespace CompanySystem
         IQueryable<Company> GetAllCompanies();
         Company GetCompany(int companyId);
         IQueryable<Employee> GetAllEmployees();
+        IQueryable<Employee> GetAllEmployees(int companyId);
         Employee GetEmployee(int employeeId);
 
         ////IQueryable<Company> GetCompanyByEmployee(int employeeId);
